@@ -1,6 +1,6 @@
 # a-dux-bluetooth
 
-![render](render.png)
+![render](render.jpg)
 
 Simplified versions of [tapioki](https://github.com/tapioki)'s [Architeuthis dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux) with puck and TRRS removed, cutout adjusted, power switch and reset switch added. Desiged for wireless use with niec!nanos.
 
